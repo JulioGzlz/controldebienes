@@ -1,0 +1,27 @@
+
+
+
+Este path será la estructura del proyecto creado.
+Destacando que será un proyecto inicial de tesis prototipo para el sector SALUD
+del gobierno de la Ciudad de México.
+
+La estructura debe llevar como base primaria.
+-Documentación
+	La carpeta de documentación debe llevar todo tipo de archivo
+	en formato word y/o excel anexando el levantamiento de los requerimientos
+
+-Dev
+	Esta carpeta será técnica.
+	Aquí llevará los archivos de base de datos como los backup
+	asi como la codificación del aplicativo
+		*Codificación del aplicativo
+	El proyecto se segmentará con tecnologías faciles de usar y con curva de 	
+	aprendizaje ligera. [Se anexa imagen de la infraestructura del proyecto]
+	
+
+Este path debe estar bien segmentado.
+El control de versiones lo gestionara GIT
+Esto para el proyecto técnico
+
+
+
